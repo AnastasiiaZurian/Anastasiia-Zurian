@@ -2,12 +2,12 @@
 
 I work as a **Data & Marketing Analytics Analyst** with experience in data visualization
 and dashboard development. I have a background in marketing and have built
-expertise in SQL, Power BI, and data analysis.
+expertise in SQL, Excel, Power BI, Tableau and data analysis.
 
 My goal is to help businesses make smarter decisions through data —
 turning raw numbers into clear insights that drive results.
 
-🔗 Connect with me on LinkedIn — [linkedin.com/in/anastasiia-zurian](https://www.linkedin.com/in/anastasiia-zurian)
+🔗 Connect with me on LinkedIn — [linkedin.com/in/anastasiia-zurian](https://www.linkedin.com/in/anastasiia-zurian)  
 📍 Based in Vancouver, BC  
 📬 Open to data analyst & marketing analytics roles  
 
