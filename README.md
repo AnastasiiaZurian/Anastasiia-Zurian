@@ -7,7 +7,7 @@ expertise in SQL, Power BI, and data analysis.
 My goal is to help businesses make smarter decisions through data —
 turning raw numbers into clear insights that drive results.
 
-🔗 Connect with me on LinkedIn — [linkedin.com/in/твой-профиль](www.linkedin.com/in/anastasiia-zurian)  
+🔗 Connect with me on LinkedIn — [linkedin.com/in/anastasiia-zurian](www.linkedin.com/in/anastasiia-zurian)  
 📍 Based in Vancouver, BC  
 📬 Open to data analyst & marketing analytics roles  
 
