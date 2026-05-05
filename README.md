@@ -1,6 +1,6 @@
 ### Hey, my name is Anastasiia 👋
 
-I work as a **Data & Marketing Analytics Analyst** with experience in data visualization
+I work as a **Data & Marketing Analyst** with experience in data visualization
 and dashboard development. I have a background in marketing and have built
 expertise in SQL, Excel, Power BI, Tableau and data analysis.
 
